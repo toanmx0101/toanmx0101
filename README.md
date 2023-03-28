@@ -5,4 +5,3 @@
 
 - 📫 Dự án của tôi : [N&CB](https://nenvachibao.vercel.app)
 
-- Bl
